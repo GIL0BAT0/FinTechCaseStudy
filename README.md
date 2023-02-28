@@ -8,7 +8,7 @@
 * Founders: Tobias Lütke, Scott Lake,and Daniel Weinand
 
 * Funding Received:
-    1. Seed round 2007: $250K
+    1. Seed 2007: $250K
     2. Series A 2010: $7M
     3. Series B 2011: $15M
     4. Series C 2013: $100M
@@ -25,14 +25,14 @@ Source: (Statista, 2022)
 ## Origin
 Shopify began in 2004 as an online store called Snowdevil with the purpose of selling snowboard equipment. 
 
-However the concept of Shopify as a SaaS began shortly after, and stemmed from the frustration encountered by the founders with the limiting, rudimentary, and oftern incompatible interface of web hosting sites such as Yahoo! Stores.
+However the concept of Shopify as a SaaS began shortly after, and stemmed from the frustration encountered by the founders with the limiting, rudimentary, and often incompatible interface of web hosting sites such as Yahoo! Stores.
 
 Armed with software engineering backgrounds, the founders set out to create a web hosting platform that was simple and easy to use for entrepreneurs and novice small businesses.
 
 ![An early version of the Snowdevil website](Screenshot%202023-02-26%20at%2022.57.10.png)
 Source: (Hansson, n.d.)
 
-## Landscape and Business Activities
+## Landscape
 
 ### FinTech Domain: Enterprise Solutions
 
@@ -40,10 +40,16 @@ As defined by the Gartner Glossary:
 
 "Enterprise solutions are designed to integrate multiple facets of a company’s business through the interchange of information from various business process areas and related databases. These solutions enable companies to retrieve and disseminate mission-critical data throughout the organization, providing managers with real-time operating information." (Gartner, n.d.)
 
-Using this definition, Shopify not only fits neatly into this domain, it is a dominating force. 
-As the ecommerce market has expanded exponentially in the last ten years, customer centric solutions for online businesses that do not necessitate advance knowledge in coding, management, logistics, etc. has made Shopify's turnkey platform thrive in this domaine.
+Using this definition, some of the companies that fall under this domain and that could be considered competitors with Shopify include the following:
+* Squarespace
+* Weebly
+* BigCommerce
+* Adobe
+* Oracle
 
-In fact, one of the key metrics used to gauge success since its inception has been MRR or Monthly Reoccurring Revenue. According to the founders, this metric is a great indicator of happy clients since their platform is on a subscription basis which means that a high number of business are consistently renewing.
+However, Shopify not only fits neatly into this domain, it is a dominating force. As the ecommerce market has expanded exponentially in the last ten years, customer centric solutions for online businesses that do not necessitate advanced knowledge in coding, management, logistics, etc. has made Shopify's turnkey platform thrive.
+
+## Business Activities
 
 The name brand companies and Fortune 500 companies that have come to rely on Shopify’s platform is staggering when considering how it’s original intent was small business. However, Shopify has not lost sight of this fact and continues to put out amazing tools for novice first time sellers to intermediate size businesses. As of 2022, over 1.7 million companies are hosted on Shopify with 2 million Shopify stores. 
 
@@ -71,16 +77,22 @@ Just a few examples of popular brands on Shopify
 
 Source: (Mileva, 2022)
 
-A great amount of Shopify’s success can be attributed to its API that allows over 4,000 apps to connect through its app store to its platform including Amazon, Facebook, Instagram, Quickbooks, etc. When it comes to their tech stack, there are over 100 applications and tools
-
-The primary coding language used by the founders for the server-side apllication programing is Ruby.
+A large amount of Shopify’s success can be attributed to its API and App Store that allow over 4,000 apps to connect to its platform, including Amazon, Facebook, Instagram, Quickbooks, etc. This allows businesses to customize and scale as needed.
 
 ![Brief History of Shopify](Screenshot%202023-02-27%20at%2011.26.56.png)
 Source: (Merritt, 2022)
+
+There are over 100 applications and tools included in Shopify's tech stack, and the primary coding language used by the founders for the server-side application programing is Ruby, with some of the original code written almost 17 years ago still in use today. 
+
+Other tech stack include Java, HTML, Liquid, MYSQL, etc.
+
 ## Results
 
-## Recommendations
+One of the key metrics used to gauge success since its inception has been MRR or Monthly Recurring Revenue. According to the founders, this metric is a great indicator of happy clients since their platform is on a subscription basis which means that a high number of businesses are consistently renewing.
 
+
+## Recommendations
+---
 ## References
 Ahmed, N. (2023, January 18). Top 16 Shopify Alternatives to Consider in 2023 - Free & Paid. Cloudways. Retrieved February 27, 2023, from https://www.cloudways.com/blog/shopify-alternatives/
 
@@ -107,3 +119,4 @@ Mileva, G. (2022, March 15). 20 Popular Brands That Use Shopify. Influencer Mark
 Shaver, M. (2022, December 14). Shopify Embraces Rust for Systems Programming (2023). Shopify Engineering. Retrieved February 27, 2023, from https://shopify.engineering/shopify-rust-systems-programming
 
 Statista. (2022, December 7). Shopify market cap development 2022. Statista. Retrieved February 26, 2023, from https://www.statista.com/statistics/1350608/shopify-market-cap-timeline/
+
